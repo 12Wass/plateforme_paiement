@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88e6213a-cfd5-4751-b892-09e8615e6703" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/plateforme-paiement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/plateforme-paiement.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/controllers/MeController.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/controllers/MeController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/controllers/TransactionController.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/controllers/TransactionController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/models/sequelize/hooks/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/models/sequelize/hooks/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/BO/Auth/sdk.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/BO/Auth/sdk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/BO/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/BO/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/BO/Transactions/OperationsPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/BO/Transactions/OperationsPanel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/CustomersPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/CustomersPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/WiredTiger.turtle" beforeDir="false" afterPath="$PROJECT_DIR$/collections/WiredTiger.turtle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/WiredTiger.wt" beforeDir="false" afterPath="$PROJECT_DIR$/collections/WiredTiger.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/collection-2-5977410940943886849.wt" beforeDir="false" afterPath="$PROJECT_DIR$/collections/collection-2-5977410940943886849.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/collection-4-5977410940943886849.wt" beforeDir="false" afterPath="$PROJECT_DIR$/collections/collection-4-5977410940943886849.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/diagnostic.data/metrics.2021-07-25T00-30-16Z-00000" beforeDir="false" afterPath="$PROJECT_DIR$/collections/diagnostic.data/metrics.2021-07-25T00-30-16Z-00000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/diagnostic.data/metrics.interim" beforeDir="false" afterPath="$PROJECT_DIR$/collections/diagnostic.data/metrics.interim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/index-3-5977410940943886849.wt" beforeDir="false" afterPath="$PROJECT_DIR$/collections/index-3-5977410940943886849.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/index-5-5977410940943886849.wt" beforeDir="false" afterPath="$PROJECT_DIR$/collections/index-5-5977410940943886849.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/index-6-5977410940943886849.wt" beforeDir="false" afterPath="$PROJECT_DIR$/collections/index-6-5977410940943886849.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/journal/WiredTigerLog.0000000011" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/sizeStorer.wt" beforeDir="false" afterPath="$PROJECT_DIR$/collections/sizeStorer.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/base/13395/pg_internal.init" beforeDir="false" afterPath="$PROJECT_DIR$/datas/base/13395/pg_internal.init" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/base/16384/16649" beforeDir="false" afterPath="$PROJECT_DIR$/datas/base/16384/16649" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/base/16384/16651" beforeDir="false" afterPath="$PROJECT_DIR$/datas/base/16384/16651" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/base/16384/16659" beforeDir="false" afterPath="$PROJECT_DIR$/datas/base/16384/16659" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/base/16384/16661" beforeDir="false" afterPath="$PROJECT_DIR$/datas/base/16384/16661" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/base/16384/16675" beforeDir="false" afterPath="$PROJECT_DIR$/datas/base/16384/16675" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/base/16384/16677" beforeDir="false" afterPath="$PROJECT_DIR$/datas/base/16384/16677" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/base/16384/16684" beforeDir="false" afterPath="$PROJECT_DIR$/datas/base/16384/16684" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/base/16384/16707" beforeDir="false" afterPath="$PROJECT_DIR$/datas/base/16384/16707" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/base/16384/16709" beforeDir="false" afterPath="$PROJECT_DIR$/datas/base/16384/16709" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/base/16384/16713" beforeDir="false" afterPath="$PROJECT_DIR$/datas/base/16384/16713" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/base/16384/pg_internal.init" beforeDir="false" afterPath="$PROJECT_DIR$/datas/base/16384/pg_internal.init" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/global/pg_control" beforeDir="false" afterPath="$PROJECT_DIR$/datas/global/pg_control" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/global/pg_internal.init" beforeDir="false" afterPath="$PROJECT_DIR$/datas/global/pg_internal.init" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/pg_stat_tmp/db_0.stat" beforeDir="false" afterPath="$PROJECT_DIR$/datas/pg_stat_tmp/db_0.stat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/pg_stat_tmp/db_13395.stat" beforeDir="false" afterPath="$PROJECT_DIR$/datas/pg_stat_tmp/db_13395.stat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/pg_stat_tmp/db_16384.stat" beforeDir="false" afterPath="$PROJECT_DIR$/datas/pg_stat_tmp/db_16384.stat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/pg_stat_tmp/global.stat" beforeDir="false" afterPath="$PROJECT_DIR$/datas/pg_stat_tmp/global.stat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/pg_wal/000000010000000000000001" beforeDir="false" afterPath="$PROJECT_DIR$/datas/pg_wal/000000010000000000000001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/pg_xact/0000" beforeDir="false" afterPath="$PROJECT_DIR$/datas/pg_xact/0000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/postmaster.pid" beforeDir="false" afterPath="$PROJECT_DIR$/datas/postmaster.pid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psp/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/psp/server/server.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vmIycC89pmttb6fHTYa5SaVply" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="16.4.2" />
+    <property name="javascript.nodejs.core.library.typings.version" value="16.4.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/api/server/routes" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api/server/routes" />
+      <recent name="$PROJECT_DIR$/api/migrations" />
+      <recent name="$PROJECT_DIR$/api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src/assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88e6213a-cfd5-4751-b892-09e8615e6703" name="Default Changelist" comment="" />
+      <created>1627161093005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627161093005</updated>
+      <workItem from="1627161096274" duration="17435000" />
+      <workItem from="1627287556938" duration="13193000" />
+      <workItem from="1627374779630" duration="3105000" />
+    </task>
+    <task id="LOCAL-00001" summary="full project">
+      <created>1627242799222</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627242799222</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changing NavBar style management using styled components + 2-3 other things">
+      <created>1627346807550</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627346807550</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changing NavBar style management using styled components + 2-3 other things">
+      <created>1627346817400</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627346817400</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="full project" />
+    <MESSAGE value="Changing NavBar style management using styled components + 2-3 other things" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changing NavBar style management using styled components + 2-3 other things" />
+  </component>
+</project>
